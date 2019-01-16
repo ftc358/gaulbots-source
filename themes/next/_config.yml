@@ -60,7 +60,7 @@ rss:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  #since: 2015
+  # since: 2019
 
   # Icon between year and copyright info.
   icon:
@@ -73,7 +73,7 @@ footer:
     color: "#ff0000"
 
   # If not defined, `author` from Hexo main config will be used.
-  copyright: Calvin Xu
+  copyright: by <a href="https://github.com/Calvin-Xu" class="theme-link" rel="noopener" target="_blank">Calvin Xu</a>
   # -------------------------------------------------------------
   powered:
     # Hexo link (Powered by Hexo).
@@ -95,7 +95,7 @@ footer:
 
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  #custom_text: Hosted by <a href="https://pages.coding.me" class="theme-link" rel="noopener" target="_blank">Coding Pages</a>
+  # custom_text:
 
 # Creative Commons 4.0 International License.
 # https://creativecommons.org/share-your-work/licensing-types-examples
