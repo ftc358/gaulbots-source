@@ -1,7 +1,7 @@
 ---
 title: Hello World!
 ---
-Hello! Welcome to the blog of Team 358 "Gaulbots".
+Hello! Welcome to the blog of FTC Team 358: The Gaulbots.
 
 This blog is made with Hexo, built & updated live with Travis CI!
 
