@@ -1,0 +1,26 @@
+language: node_js
+
+node_js: stable
+
+branches:
+  only:
+  - master
+
+before_install:
+- git config --global user.name "Calvin-Xu"
+- git config --global user.email "calvinxu806@gmail.com"
+- npm install -g hexo-cli
+
+install:
+- npm i
+
+script:
+- hexo clean
+- hexo generate
+
+after_success:
+- cd ./public
+- git init
+- git add --all .
+- git commit -m "Travis CI Auto Builder"
+- git push --quiet --force https://${CI_TOKEN}@github.com/Calvin-Xu/gaulbots.com master:master
