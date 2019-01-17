@@ -177,7 +177,7 @@ site_state: true
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  E-Mail: mailto:gaulbots358@gmail.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   Twitter: https://twitter.com/Gaulbots358 || twitter
@@ -186,6 +186,7 @@ social:
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   YouTube: https://www.youtube.com/channel/UCz9fReuS3KbH7R5ya2spa7g || youtube
   Instagram: https://instagram.com/gaulbots358 || instagram
+  Facebook: https://www.facebook.com/gaulbots358 || facebook
   #Skype: skype:yourname?call|chat || skype
   FTCScores: https://ftcscores.com/team/358 || flag-checkered
 

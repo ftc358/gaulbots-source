@@ -4,12 +4,12 @@
 
 # Site
 title: Gaulbots Blog
-subtitle:
+subtitle: FTC Team 358
 description:
-keywords:
+keywords: FTC, Robotics, FIRST
 author: Team 358
-language:
-timezone:
+language: en
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
