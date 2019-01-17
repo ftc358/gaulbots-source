@@ -1,5 +1,5 @@
 ---
-title: "Repost: Webb robotics kicks into high gear"
+title: "Repost: Webb Robotics Kicks Into High Gear"
 ---
 > Author: Calvin Xu
 
