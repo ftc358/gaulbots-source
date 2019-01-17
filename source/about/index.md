@@ -1,5 +1,5 @@
 ---
-title: about
+title: About Us
 date: 2019-01-16 16:44:23
 ---
 # Mission Statement
