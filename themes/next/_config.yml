@@ -95,7 +95,7 @@ footer:
 
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  custom_text: Continous Integration by Travis CI
+  custom_text: Continuous Integration by <a href="https://travis-ci.org" class="theme-link" rel="noopener" target="_blank">Travis CI</a>
 
 # Creative Commons 4.0 International License.
 # https://creativecommons.org/share-your-work/licensing-types-examples
