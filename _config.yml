@@ -81,3 +81,7 @@ deploy:
   type: git
   repo: git@github.com:Calvin-Xu/gaulbots.com.git
   branch: master
+
+sitemap:
+    path: sitemap.xml
+    template: ./sitemap_template.xml
