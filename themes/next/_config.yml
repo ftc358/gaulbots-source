@@ -623,7 +623,7 @@ google_analytics: UA-132775224-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster
-#bing_site_verification:
+bing_site_verification: D37A98A0207DFF8CB721E37BBBC055B0
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru
@@ -631,7 +631,7 @@ google_analytics: UA-132775224-1
 
 # Baidu Webmaster tools verification setting
 # See: https://ziyuan.baidu.com/site
-#baidu_site_verification:
+baidu_site_verification: LcOrTtJZX7
 
 # CNZZ count
 #cnzz_siteid:
