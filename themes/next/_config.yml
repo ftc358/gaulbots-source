@@ -365,7 +365,7 @@ disable_baidu_tranformation: false
 mobile_layout_economy: false
 
 # Android Chrome header panel color ($brand-bg / $headband-bg => $black-deep).
-android_chrome_color: "#222"
+android_chrome_color: "#2D67B2"
 
 # Custom Logo
 # Do not support Scheme Mist currently.
