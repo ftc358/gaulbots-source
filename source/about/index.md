@@ -28,9 +28,9 @@ In the 2016-17 season, team 359 won the PTC Design Award in Los Angeles FTC Inte
 | ![Lawrence Mao](/images/Lawrence Mao.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
 | ![Luke Raus](/images/Luke Raus.JPG)       | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
 | ![Cecilia Li](/images/Cecilia Li.JPG)     | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Calvin Xu](/images/Mr. Hamilton.JPG)    | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Eric Liu](/images/Mr. Hamilton.JPG)     | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Kevin Wang](/images/Mr. Hamilton.JPG)   | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Isabella Shi](/images/Mr. Hamilton.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Eric He](/images/Mr. Hamilton.JPG)      | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Tina Rong](/images/Mr. Hamilton.JPG)    | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Calvin Xu](/images/Calvin Xu.JPG)       | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Eric Liu](/images/Eric Liu.JPG)         | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Kevin Wang](/images/Kevin Wang.JPG)     | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Isabella Shi](/images/Isabella Shi.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Eric He](/images/Eric He.JPG)           | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Tina Rong](/images/Tina Rong.JPG)       | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
