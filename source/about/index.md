@@ -20,3 +20,13 @@ During years 2014 - 2015, the team went as far as regional division finalists an
 In the 2015-16 season, team 359 was on the Winning Alliance for both Los Angeles FTC Qualifying Tournament and Las Vegas FTC Regional Championship Tournament. On the latter competition, 359 also achieved the Finalist Alliance and the Connect Award.
 
 In the 2016-17 season, team 359 won the PTC Design Award in Los Angeles FTC Interleague Tournament, while in the 2017-18 season, 359 was invited to the FTC World Championship Tournament.
+
+# Team History
+
+| ![Mr. Hamilton](/images/Mr. Hamilton.jpg) | Some random text | ![Lawrence Mao](/images/Lawrence Mao.jpg) | Some random text |
+|:-----------------------------------------:|:----------------:|:-----------------------------------------:|------------------|
+|                                           |   left-aligned   |                                           |                  |
+|                                           |     centered     |                                           |                  |
+|                                           |   right-aligned  |                                           |                  |
+|                                           |                  |                                           |                  |
+|                                           |                  |                                           |                  |
