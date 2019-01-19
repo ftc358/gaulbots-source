@@ -23,7 +23,7 @@ In the 2016-17 season, team 359 won the PTC Design Award in Los Angeles FTC Inte
 
 # Team History
 
-| ![Mr. Hamilton](/images/Mr. Hamilton.jpg) | Some random text | ![Lawrence Mao](/images/Lawrence Mao.jpg) | Some random text |
+| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) | Some random text | ![Lawrence Mao](/images/Lawrence Mao.JPG) | Some random text |
 |:-----------------------------------------:|:----------------:|:-----------------------------------------:|------------------|
 |                                           |   left-aligned   |                                           |                  |
 |                                           |     centered     |                                           |                  |
