@@ -23,14 +23,14 @@ In the 2016-17 season, team 359 won the PTC Design Award in Los Angeles FTC Inte
 
 # Meet the Team!
 
-| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-|:-----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Lawrence Mao](/images/Lawrence Mao.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Luke Raus](/images/Luke Raus.JPG)       | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Cecilia Li](/images/Cecilia Li.JPG)     | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Calvin Xu](/images/Calvin Xu.JPG)       | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Eric Liu](/images/Eric Liu.JPG)         | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Kevin Wang](/images/Kevin Wang.JPG)     | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Isabella Shi](/images/Isabella Shi.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Eric He](/images/Eric He.JPG)           | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
-| ![Tina Rong](/images/Tina Rong.JPG)       | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) |             Mr. Hamilton, AKA Alexander Hamilton, is always down for "interesting" conversations.             |
+|:-----------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| ![Lawrence Mao](/images/Lawrence Mao.JPG) |                        Lawrence is not just a nerd. He's a gamer. (Gamer tag: NKS LMAO)                       |
+| ![Luke Raus](/images/Luke Raus.JPG)       | Luke will settle for nothing less than perfection. As a result, our robot is steadily approaching perfection. |
+| ![Cecilia Li](/images/Cecilia Li.JPG)     |                                         Cecilia <3 boba. End of story.                                        |
+| ![Calvin Xu](/images/Calvin Xu.JPG)       |                         Calvin's brain seems to occupy an endless pile of information.                        |
+| ![Eric Liu](/images/Eric Liu.JPG)         |                     Eric, not to be confused with Steven Dai, will one day rule the world.                    |
+| ![Kevin Wang](/images/Kevin Wang.JPG)     |                   Kevin loves sharing his taste in music and memes. And, of course, physics.                  |
+| ![Isabella Shi](/images/Isabella Shi.JPG) |                                      Isabella is quiet but full of style.                                     |
+| ![Eric He](/images/Eric He.JPG)           |                              Eric^2. That's what we call Eric around these parts.                             |
+| ![Tina Rong](/images/Tina Rong.JPG)       |                             She may appear small, but her heart is definitely not.                            |
