@@ -21,12 +21,16 @@ In the 2015-16 season, team 359 was on the Winning Alliance for both Los Angeles
 
 In the 2016-17 season, team 359 won the PTC Design Award in Los Angeles FTC Interleague Tournament, while in the 2017-18 season, 359 was invited to the FTC World Championship Tournament.
 
-# Team History
+# Meet the Team!
 
-| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) | Some random text | ![Lawrence Mao](/images/Lawrence Mao.JPG) | Some random text |
-|:-----------------------------------------:|:----------------:|:-----------------------------------------:|------------------|
-|                                           |   left-aligned   |                                           |                  |
-|                                           |     centered     |                                           |                  |
-|                                           |   right-aligned  |                                           |                  |
-|                                           |                  |                                           |                  |
-|                                           |                  |                                           |                  |
+| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+|:-----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Lawrence Mao](/images/Lawrence Mao.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Luke Raus](/images/Luke Raus.JPG)       | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Cecilia Li](/images/Cecilia Li.JPG)     | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Calvin Xu](/images/Mr. Hamilton.JPG)    | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Eric Liu](/images/Mr. Hamilton.JPG)     | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Kevin Wang](/images/Mr. Hamilton.JPG)   | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Isabella Shi](/images/Mr. Hamilton.JPG) | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Eric He](/images/Mr. Hamilton.JPG)      | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
+| ![Tina Rong](/images/Mr. Hamilton.JPG)    | Some random bio about the person. It should be approximately this long. I am just typing random filler text at this point because ok I'm done. |
