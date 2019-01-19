@@ -25,6 +25,7 @@ In the 2016-17 season, team 359 won the PTC Design Award in Los Angeles FTC Inte
 
 | ![Mr. Hamilton](/images/Mr. Hamilton.JPG) |             Mr. Hamilton, AKA Alexander Hamilton, is always down for "interesting" conversations.             |
 |:-----------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| ![Mr. Walker](/images/Mr. Walker.JPG)     |          Mr. Walker, a devout South Park and Baby Shark fan, is always willing to give his two cents.         |
 | ![Lawrence Mao](/images/Lawrence Mao.JPG) |                        Lawrence is not just a nerd. He's a gamer. (Gamer tag: NKS LMAO)                       |
 | ![Luke Raus](/images/Luke Raus.JPG)       | Luke will settle for nothing less than perfection. As a result, our robot is steadily approaching perfection. |
 | ![Cecilia Li](/images/Cecilia Li.JPG)     |                                         Cecilia <3 boba. End of story.                                        |
