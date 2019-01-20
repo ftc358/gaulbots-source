@@ -11,20 +11,44 @@ We are team 358, the Gaulbots, from the Webb Schools in Claremont, CA. Our robot
 
 # Meet the Team!
 
-# Meet the Team!
-
-| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) |             Mr. Hamilton, AKA Alexander Hamilton, is     always down for "interesting" conversations.            |
+<!--|Picture|Description|
 |:-----------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| ![Mr. Walker](/images/Mr. Walker.JPG)     |         Mr. Walker, a devout South Park and Baby Shark fan, is always willing to pitch in his two cents.         |
-| ![Lawrence Mao](/images/Lawrence Mao.JPG) |                       Lawrence is not just a nerd. He's a gamer.      (Gamer tag: NKS LMAO)                      |
-| ![Luke Raus](/images/Luke Raus.JPG)       | Luke will settle for nothing less than perfection. As a result, our robot is steadily approaching    perfection. |
-| ![Cecilia Li](/images/Cecilia Li.JPG)     |                                        Cecilia <3 lollipops & boba. End of story.                                       |
-| ![Calvin Xu](/images/Calvin Xu.JPG)       |                          Calvin's brain seems to occupy an endless pile of information.                          |
-| ![Eric Liu](/images/Eric Liu.JPG)         |                      Eric, not to be confused with Steven Dai, will one day rule the world.                      |
-| ![Kevin Wang](/images/Kevin Wang.JPG)     |                  Kevin loves sharing his taste in music and     memes. And, of course, physics.                  |
-| ![Isabella Shi](/images/Isabella Shi.JPG) |                                       Isabella is quiet but full of style.                                       |
-| ![Eric He](/images/Eric He.JPG)           |                              \\(Eric^2\\). That's what we call Eric around these    parts.                             |
-| ![Tina Rong](/images/Tina Rong.JPG)       |                              Tina may appear small, but her heart is definitely not.                              |
+| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) |Mr. Hamilton, AKA A. Ham., is always down for "interesting" conversations.|
+| ![Mr. Walker](/images/Mr. Walker.JPG)     |Mr. Walker, a devout South Park and Baby Shark fan, is always willing to pitch in his two cents.|
+| ![Lawrence Mao](/images/Lawrence Mao.JPG) |Lawrence is not just a nerd. He's a gamer. (Gamer tag: NKS LMAO)|
+| ![Luke Raus](/images/Luke Raus.JPG)       |Luke will settle for nothing less than perfection. As a result, our robot is steadily approaching perfection.|
+| ![Cecilia Li](/images/Cecilia Li.JPG)     |Cecilia <3 lollipops & boba. End of story.|
+| ![Calvin Xu](/images/Calvin Xu.JPG)       |Calvin's brain seems to occupy an endless pile of information.|
+| ![Eric Liu](/images/Eric Liu.JPG)         |Eric, not to be confused with Steven Dai, will one day rule the world.|
+| ![Kevin Wang](/images/Kevin Wang.JPG)     |Kevin loves sharing his taste in music and memes. And, of course, physics.|
+| ![Isabella Shi](/images/Isabella Shi.JPG) |Isabella is quiet but full of style.|
+| ![Eric He](/images/Eric He.JPG)           |\\(Eric^2\\). That's what we call Eric around these parts.|
+| ![Tina Rong](/images/Tina Rong.JPG)       |Tina may appear small, but her heart is definitely not.|-->
+
+|Members|
+|:-----------------------------------------:|
+| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) |
+|Mr. Hamilton, AKA A. Ham., is always down for "interesting" conversations.|
+| ![Mr. Walker](/images/Mr. Walker.JPG)     |
+|Mr. Walker, a devout South Park and Baby Shark fan, is always willing to pitch in his two cents.|
+| ![Lawrence Mao](/images/Lawrence Mao.JPG) |
+|Lawrence is not just a nerd. He's a gamer. (Gamer tag: NKS LMAO)|
+| ![Luke Raus](/images/Luke Raus.JPG)       |
+|Luke will settle for nothing less than perfection. As a result, our robot is steadily approaching perfection.|
+| ![Cecilia Li](/images/Cecilia Li.JPG)     |
+|Cecilia <3 lollipops & boba. End of story.|
+| ![Calvin Xu](/images/Calvin Xu.JPG)       |
+|Calvin's brain seems to occupy an endless pile of information.|
+| ![Eric Liu](/images/Eric Liu.JPG)         |
+|Eric, not to be confused with Steven Dai, will one day rule the world.|
+| ![Kevin Wang](/images/Kevin Wang.JPG)     |
+|Kevin loves sharing his taste in music and memes. And, of course, physics.|
+| ![Isabella Shi](/images/Isabella Shi.JPG) |
+|Isabella is quiet but full of style.|
+| ![Eric He](/images/Eric He.JPG)           |
+|\\(Eric^2\\). That's what we call Eric around these parts.|
+| ![Tina Rong](/images/Tina Rong.JPG)       |
+|Tina may appear small, but her heart is definitely not.|
 
 # Team History
 
