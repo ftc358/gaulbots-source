@@ -1,5 +1,6 @@
 ---
 title: Hello World!
+date: 2019-01-15 23:33:58
 ---
 Hello! Welcome to the blog of FTC Team 358: The Gaulbots.
 
