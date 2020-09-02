@@ -12,5 +12,4 @@ It has been a great season. Everyone on 358 has grown and had fun. We thank our 
 
 Check out us scoring 197 Points **solo** at Qualification 19:
 
-{% video <iframe height="315" src="https://www.youtube.com/embed/Mog3v1L__Pk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>%}
-
+<iframe height="315" src="https://www.youtube.com/embed/Mog3v1L__Pk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

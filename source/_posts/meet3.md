@@ -8,4 +8,4 @@ Meet 3 went smoothly for us, despite still running our test robot. We won 4 of t
 
 See you all at Interleague!
 
-{% video <iframe height="315" src="https://www.youtube.com/embed/xCeYu_EmFFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> %}
+<iframe height="315" src="https://www.youtube.com/embed/xCeYu_EmFFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

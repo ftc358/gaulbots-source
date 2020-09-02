@@ -9,4 +9,4 @@ Despite a rough start, we achieved the highest score in the league of 70 points 
 
 Check out us scoring 25 points **solo** in Autonomous:
 
-{% video  <iframe height="315" src="https://www.youtube.com/embed/QqtPpez4cLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>%}
+<iframe height="315" src="https://www.youtube.com/embed/QqtPpez4cLM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
