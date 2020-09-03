@@ -7,47 +7,33 @@ mathjax: true
 
 We are team 358, the Gaulbots, from the Webb Schools in Claremont, CA. Our robotics program is part of Webb's afternoon activity system in which every student is required to participate in some activity after the school day. This year, we are lucky to have 4 experienced seniors and juniors on our team to help mentor our less experienced members learn the ropes of robotics. Everyone has shown considerable dedication to the team and a desire to learn, creating a collaborative working environment. We receive support from our school both financially and personally. We, along with our sister team, 359, are led by our mentors, teachers at our school, who happen to be experienced in FIRST as well as in various fields of engineering. This year, we are hosts to the meets in our league so our members set up and clean up before and after every meet.
 
-![Team Roles](/images/team structure.jpg)
+![Team Roles](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/team%20structure.jpg)
 
 # Meet the Team!
 
-<!--|Picture|Description|
-|:-----------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) |Mr. Hamilton, AKA A. Ham., is always down for "interesting" conversations.|
-| ![Mr. Walker](/images/Mr. Walker.JPG)     |Mr. Walker, a devout South Park and Baby Shark fan, is always willing to pitch in his two cents.|
-| ![Lawrence Mao](/images/Lawrence Mao.JPG) |Lawrence is not just a nerd. He's a gamer. (Gamer tag: NKS LMAO)|
-| ![Luke Raus](/images/Luke Raus.JPG)       |Luke will settle for nothing less than perfection. As a result, our robot is steadily approaching perfection.|
-| ![Cecilia Li](/images/Cecilia Li.JPG)     |Cecilia <3 lollipops & boba. End of story.|
-| ![Calvin Xu](/images/Calvin Xu.JPG)       |Calvin's brain seems to occupy an endless pile of information.|
-| ![Eric Liu](/images/Eric Liu.JPG)         |Eric, not to be confused with Steven Dai, will one day rule the world.|
-| ![Kevin Wang](/images/Kevin Wang.JPG)     |Kevin loves sharing his taste in music and memes. And, of course, physics.|
-| ![Isabella Shi](/images/Isabella Shi.JPG) |Isabella is quiet but full of style.|
-| ![Eric He](/images/Eric He.JPG)           |\\(Eric^2\\). That's what we call Eric around these parts.|
-| ![Tina Rong](/images/Tina Rong.JPG)       |Tina may appear small, but her heart is definitely not.|-->
-
 |Members|
 |:-----------------------------------------:|
-| ![Mr. Hamilton](/images/Mr. Hamilton.JPG) |
+| ![Mr. Hamilton](https://raw.githubusercontent.com/Calvin-Xu/gaulbots-source/master/source/images/Mr.%20Hamilton.JPG) |
 |Mr. Hamilton, AKA A. Ham., is always down for "interesting" conversations.|
-| ![Mr. Walker](/images/Mr. Walker.JPG)     |
+| ![Mr. Walker](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Mr.%20Walker.JPG) |
 |Mr. Walker, a devout South Park and Baby Shark fan, is always willing to pitch in his two cents.|
-| ![Lawrence Mao](/images/Lawrence Mao.JPG) |
+| ![Lawrence Mao](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Lawrence%20Mao.JPG) |
 |Lawrence is not just a nerd. He's a gamer. (Gamer tag: NKS LMAO)|
-| ![Luke Raus](/images/Luke Raus.JPG)       |
+| ![Luke Raus](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Luke%20Raus.JPG) |
 |Luke will settle for nothing less than perfection. As a result, our robot is steadily approaching perfection.|
-| ![Cecilia Li](/images/Cecilia Li.JPG)     |
+| ![Cecilia Li](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Cecilia%20Li.JPG) |
 |Cecilia <3 lollipops & boba. End of story.|
-| ![Calvin Xu](/images/Calvin Xu.JPG)       |
+| ![Calvin Xu](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Calvin%20Xu.JPG) |
 |Calvin's brain seems to occupy an endless pile of information.|
-| ![Eric Liu](/images/Eric Liu.JPG)         |
+| ![Eric Liu](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Eric%20Liu.JPG) |
 |Eric, not to be confused with Steven Dai, will one day rule the world.|
-| ![Kevin Wang](/images/Kevin Wang.JPG)     |
+| ![Kevin Wang](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Kevin%20Wang.JPG) |
 |Kevin loves sharing his taste in music and memes. And, of course, physics.|
-| ![Isabella Shi](/images/Isabella Shi.JPG) |
+| ![Isabella Shi](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Isabella%20Shi.JPG) |
 |Isabella is quiet but full of style.|
-| ![Eric He](/images/Eric He.JPG)           |
+| ![Eric He](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Eric%20He.JPG) |
 |\\(Eric^2\\). That's what we call Eric around these parts.|
-| ![Tina Rong](/images/Tina Rong.JPG)       |
+| ![Tina Rong](https://github.com/Calvin-Xu/gaulbots-source/raw/master/source/images/Tina%20Rong.JPG) |
 |Tina may appear small, but her heart is definitely not.|
 
 # Team History
